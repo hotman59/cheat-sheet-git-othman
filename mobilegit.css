@@ -1,45 +1,36 @@
+/* voici le css de ma page github version mobile */
 
-
-body{
-background-color:  rgba(230, 126, 34, 0.6);
-font-size: 1.2em;
+body {
+  background-color: rgba(230, 126, 34, 0.6);
+  font-size: 1.2em;
 }
-
-
-header{
-background-color: rgb(52, 73, 94);
-height: 6em;
-border-radius: 5px;
-margin-top: -1%;
+header {
+  background-color: rgb(52, 73, 94);
+  height: 6em;
+  border-radius: 5px;
+  margin-top: -1%;
 }
-
-nav{
-  border: 1px solid black;
+nav {
+  /* fixation bouton acceuil en supprimant l'image */
   width: 100px;
   margin: auto;
-  position:relative;
+  position: relative;
 }
-
-
-img{
+img {
   display: none;
 }
-
-h1{
+h1 {
   width: 280px;
   margin: auto;
 }
-
-code{
-border: 1px solid black;
-font-style: oblique;
-font-size: 1.2em;
+code {
+  border: 1px solid black;
+  font-style: oblique;
+  font-size: 1.2em;
 }
-
-
-footer{
-background-color: rgb(52, 73, 94);
-height: 6em;
-margin-top: 0%;
-border-radius: 5px;
+footer {
+  background-color: rgb(52, 73, 94);
+  height: 6em;
+  margin-top: 0%;
+  border-radius: 5px;
 }

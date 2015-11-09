@@ -1,16 +1,16 @@
+/*voici la page github version pc et version mobile
+est situé sur le fichier mobile git */
 
-body{
-background-color:  rgba(230, 126, 34, 0.8);
-font-size: 1.2em;
+body {
+  background-color: rgba(230, 126, 34, 0.8);
+  font-size: 1.2em;
 }
-
-header{
-background-color: rgb(52, 73, 94);
-height: 6em;
-border-radius: 5px;
-margin-top: -1%;
+header {
+  background-color: rgb(52, 73, 94);
+  height: 6em;
+  border-radius: 5px;
+  margin-top: -1%;
 }
-
 nav {
   background-color: rgba(187, 174, 152, 0.5);
   margin-left: 85%;
@@ -23,34 +23,26 @@ nav {
   font-weight: bold;
   list-style-type: none;
 }
-
 nav a {
   display: inline-block;
 }
-
-img{
+img {
   margin: auto;
   width: 40%;
   height: 40%;
 }
-
-
-h1{
+h1 {
   width: 280px;
   margin: auto;
 }
-
-code{
-border: 1px solid black;
-font-style: oblique;
-font-size: 1.2em;
+code {
+  border: 1px solid black;
+  font-style: oblique;
+  font-size: 1.2em;
 }
-
-
-
-footer{
-background-color: rgb(52, 73, 94);
-height: 6em;
-margin-top: 0%;
-border-radius: 5px
+footer {
+  background-color: rgb(52, 73, 94);
+  height: 6em;
+  margin-top: 0%;
+  border-radius: 5px
 }
